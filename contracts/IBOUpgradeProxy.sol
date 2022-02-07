@@ -1,6 +1,6 @@
 pragma solidity 0.6.12;
 
-import "@beefswap/beef-swap-lib/contracts/proxy/TransparentUpgradeableProxy.sol";
+import "@Beefswap/beef-swap-lib/contracts/proxy/TransparentUpgradeableProxy.sol";
 
 contract IBOUpgradeProxy is TransparentUpgradeableProxy {
 
